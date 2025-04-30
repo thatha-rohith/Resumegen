@@ -20,13 +20,12 @@ Extras: React-To-Print
 ![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
 
 
-<h2>📬 Contact</h2>
+<h2>📬 Contact :8885491864</h2>
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
 
-© 2022 Jigar Sable
+© 2025 Thatha Rohith
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
